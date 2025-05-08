@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "configurePresets": [
+    {
+      "name": "default",
+      "inherits": "x64-debug",
+      "environment": {
+        "VCPKG_ROOT": "<path to vcpkg>"
+      }
+    }
+  ]
+}
