@@ -32,12 +32,17 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+<<<<<<< HEAD
 # Ignore Visual Studio files
 .vs/
 .vscode/
 # Ignore build directories
 bin/
 obj/
+=======
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+>>>>>>> bcbb4c76d1632e35b9c1ec0b92a9a7f7ed2d14ee
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
@@ -402,4 +407,8 @@ FodyWeavers.xsd
 *.msp
 
 # JetBrains Rider
+<<<<<<< HEAD
 *.sln.iml
+=======
+*.sln.iml
+>>>>>>> bcbb4c76d1632e35b9c1ec0b92a9a7f7ed2d14ee
